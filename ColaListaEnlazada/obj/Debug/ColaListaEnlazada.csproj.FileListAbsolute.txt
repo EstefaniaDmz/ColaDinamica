@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\ColaListaEnlazada\ColaListaEnlazada\bin\Debug\ColaListaEnlazada.exe.config
+C:\Users\andre\source\repos\ColaListaEnlazada\ColaListaEnlazada\bin\Debug\ColaListaEnlazada.exe
+C:\Users\andre\source\repos\ColaListaEnlazada\ColaListaEnlazada\bin\Debug\ColaListaEnlazada.pdb
+C:\Users\andre\source\repos\ColaListaEnlazada\ColaListaEnlazada\obj\Debug\ColaListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\ColaListaEnlazada\ColaListaEnlazada\obj\Debug\ColaListaEnlazada.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\ColaListaEnlazada\ColaListaEnlazada\obj\Debug\ColaListaEnlazada.Form1.resources
+C:\Users\andre\source\repos\ColaListaEnlazada\ColaListaEnlazada\obj\Debug\ColaListaEnlazada.Properties.Resources.resources
+C:\Users\andre\source\repos\ColaListaEnlazada\ColaListaEnlazada\obj\Debug\ColaListaEnlazada.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\ColaListaEnlazada\ColaListaEnlazada\obj\Debug\ColaListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ColaListaEnlazada\ColaListaEnlazada\obj\Debug\ColaListaEnlazada.exe
+C:\Users\andre\source\repos\ColaListaEnlazada\ColaListaEnlazada\obj\Debug\ColaListaEnlazada.pdb
